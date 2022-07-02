@@ -3,4 +3,8 @@ fileignoreconfig:
   checksum: b0a79bfb3d74f9bcb60021b9d83ebbcd8567c234f30e490e8733f58a029032d1
 - filename: src/main/resources/db/migration/V1.2__Create_Products_Table.sql
   checksum: 9431b3fecc158338717b7e0a346242c1ee76ea7d26a33a5f982fe7f34fc80192
+- filename: src/main/resources/db/migration/V2.1__Rename_Name_Column_In_Users_Table.sql
+  checksum: 961004f13bddc24f81fb2dc603dde5e206c4f3e99523718e1c2cf30c26b51c60
+- filename: src/main/resources/db/migration/V2.2__Add_Phone_Number_Column_In_Users_Table.sql
+  checksum: 8afeed39ae546e2beac7d7d690bb8e3a5f6a1d33c2f92371ad534b3720a83117
 version: "1"
